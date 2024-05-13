@@ -1,0 +1,16 @@
+.arrow-search {
+  height: 26px;
+  width: 20px;
+}
+.containers {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.button {
+  background-color: transparent;
+  margin-bottom: 20px;
+  border-color: transparent;
+  cursor: pointer;
+}

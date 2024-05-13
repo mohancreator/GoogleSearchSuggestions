@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.container {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  height: 300px;
+  width: 600px;
+  padding: 40px;
+}
+
+.arrow-search {
+  height: 46px;
+  width: 40px;
+}
+
+.searchContainer {
+  border-radius: 8px;
+  box-shadow: 1px 1px 1px 1px;
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+}
+
+input {
+  width: 450px;
+  border-color: transparent;
+}
